@@ -1,4 +1,4 @@
-![](logo/optimized.svg)
+![Greenlight Logo](logo/banner.svg)
 
 # Brand [![License][license-image]][license-url]
 

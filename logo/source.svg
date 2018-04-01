@@ -9,13 +9,18 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="317.5mm"
-   height="112.44792mm"
-   viewBox="0 0 317.5 112.44793"
+   width="1000"
+   height="477.08334"
+   viewBox="0 0 264.58334 126.22831"
    version="1.1"
    id="svg8"
-   sodipodi:docname="greenlight.svg"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
+   sodipodi:docname="source.svg"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   inkscape:export-filename="/home/ahmad/Projects/greenlight-ci/brand/logo/source.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <title
+     id="title40">Greenlight Logo</title>
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -25,30 +30,32 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="366.31155"
-     inkscape:cy="178.4352"
+     inkscape:zoom="0.75416667"
+     inkscape:cx="783.389"
+     inkscape:cy="689.63974"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
      showguides="false"
      objecttolerance="20"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0"
+     fit-margin-top="150"
+     fit-margin-left="250"
+     fit-margin-right="250"
+     fit-margin-bottom="150"
      inkscape:measure-start="0,0"
      inkscape:measure-end="0,0"
      inkscape:window-width="2560"
      inkscape:window-height="1380"
      inkscape:window-x="0"
      inkscape:window-y="1440"
-     inkscape:window-maximized="1">
+     inkscape:window-maximized="1"
+     viewbox-height="112.45"
+     units="px">
     <inkscape:grid
        type="xygrid"
        id="grid12"
-       originx="1.0046387e-13"
-       originy="6.6145796"
+       originx="66.145837"
+       originy="46.302081"
        spacingx="1.3229167"
        spacingy="1.3229167" />
   </sodipodi:namedview>
@@ -60,7 +67,12 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title>Greenlight Logo</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Ahmad NAssri</dc:title>
+          </cc:Agent>
+        </dc:creator>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -68,27 +80,27 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-5.291668,-191.16668)">
+     transform="translate(60.854165,-217.0738)">
     <path
-       style="fill:#292f33;fill-opacity:1;stroke-width:0.25709707"
-       d="M 5.291668,191.16668 V 303.6146 H 322.79168 V 191.16668 Z m 52.916668,6.61459 H 316.17709 v 99.21875 H 58.208336 Z"
+       style="fill:#292f33;fill-opacity:1;stroke-width:0.10712377"
+       d="m 5.291668,256.7613 v 46.8533 H 137.58333 v -46.8533 z m 22.048611,2.75608 H 134.82726 v 41.34115 H 27.340279 Z"
        id="rect10"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccccccc" />
     <path
        inkscape:connector-curvature="0"
-       style="fill:#77b255;stroke-width:0.16912237"
-       d="m 31.750001,263.92713 c 5.315684,0 9.6234,4.30805 9.6234,9.6212 0,5.31316 -4.308054,9.6212 -9.6234,9.6212 -5.313149,0 -9.621201,-4.30923 -9.621201,-9.62137 0,-5.31382 4.308052,-9.62137 9.621201,-9.62137"
+       style="fill:#77b255;stroke-width:0.07046765"
+       d="m 16.315973,287.07815 c 2.214868,0 4.00975,1.79503 4.00975,4.00884 0,2.21381 -1.795023,4.00883 -4.00975,4.00883 -2.213812,0 -4.008834,-1.79551 -4.008834,-4.0089 0,-2.21409 1.795022,-4.00891 4.008834,-4.00891"
        id="path4917" />
     <path
        inkscape:connector-curvature="0"
-       style="fill:#ffcc4d;stroke-width:0.16912237"
-       d="m 31.750001,237.46794 c 5.315684,0 9.6234,4.30805 9.6234,9.6212 0,5.31315 -4.308054,9.6212 -9.6234,9.6212 -5.313149,0 -9.621201,-4.30755 -9.621201,-9.62137 0,-5.31213 4.308052,-9.62137 9.621201,-9.62137"
+       style="fill:#ffcc4d;stroke-width:0.07046765"
+       d="m 16.315973,276.05349 c 2.214868,0 4.00975,1.79502 4.00975,4.00884 0,2.21381 -1.795023,4.00883 -4.00975,4.00883 -2.213812,0 -4.008834,-1.79481 -4.008834,-4.0089 0,-2.21339 1.795022,-4.00891 4.008834,-4.00891"
        id="path4919" />
     <path
        inkscape:connector-curvature="0"
-       style="fill:#dd2e44;stroke-width:0.16912237"
-       d="m 31.750001,211.01044 c 5.315684,0 9.6234,4.30789 9.6234,9.6212 0,5.31331 -4.308054,9.62121 -9.6234,9.62121 -5.313149,0 -9.621201,-4.3084 -9.621201,-9.62155 0,-5.31314 4.308052,-9.6212 9.621201,-9.6212"
+       style="fill:#dd2e44;stroke-width:0.07046765"
+       d="m 16.315973,265.02953 c 2.214868,0 4.00975,1.79496 4.00975,4.00884 0,2.21388 -1.795023,4.00884 -4.00975,4.00884 -2.213812,0 -4.008834,-1.79517 -4.008834,-4.00898 0,-2.21381 1.795022,-4.00884 4.008834,-4.00884"
        id="path4921" />
     <flowRoot
        xml:space="preserve"
@@ -101,31 +113,31 @@
            height="100"
            x="260"
            y="60.000027" /></flowRegion><flowPara
-         id="flowPara4969"></flowPara></flowRoot>    <text
+         id="flowPara4969" /></flowRoot>    <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:14.28138351px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.35703459"
-       x="83.203293"
-       y="245.31628"
+       style="font-style:normal;font-weight:normal;font-size:5.95057631px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1487644"
+       x="37.754845"
+       y="279.32364"
        id="text4983"><tspan
          sodipodi:role="line"
-         x="83.203293"
-         y="245.31628"
+         x="37.754845"
+         y="279.32364"
          id="tspan4981"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:31.75px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:2.3812499px;writing-mode:lr-tb;text-anchor:start;fill:#292f33;fill-opacity:1;stroke-width:0.35703459"><tspan
-           x="83.203293"
-           y="245.31628"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:31.75px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:2.3812499px;writing-mode:lr-tb;text-anchor:start;fill:#292f33;fill-opacity:1;stroke-width:0.35703459"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.22916603px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0.99218744px;writing-mode:lr-tb;text-anchor:start;fill:#292f33;fill-opacity:1;stroke-width:0.1487644"><tspan
+           x="37.754845"
+           y="279.32364"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.22916603px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0.99218744px;writing-mode:lr-tb;text-anchor:start;fill:#292f33;fill-opacity:1;stroke-width:0.1487644"
            id="tspan4979">GREENLIGHT</tspan></tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:4.31270838px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="84.477196"
-       y="270.32413"
+       style="font-style:normal;font-weight:normal;font-size:4.40972185px;line-height:1.25;font-family:sans-serif;letter-spacing:1.79696178px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.11024304"
+       x="38.285637"
+       y="289.74356"
        id="text4987"><tspan
          sodipodi:role="line"
          id="tspan4985"
-         x="84.477196"
-         y="270.32413"
-         style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:17.63888931px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Ultra-Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:4.28625011px;writing-mode:lr-tb;text-anchor:start;fill:#292f33;fill-opacity:1;stroke-width:0.26458332">AUDIT EVERYTHING</tspan></text>
+         x="38.285637"
+         y="289.74356"
+         style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:7.3495369px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Ultra-Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:1.78593743px;writing-mode:lr-tb;text-anchor:start;fill:#292f33;fill-opacity:1;stroke-width:0.11024304">AUDIT EVERYTHING</tspan></text>
   </g>
 </svg>
